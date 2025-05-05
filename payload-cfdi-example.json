@@ -1,0 +1,24 @@
+{
+    "Serie": "A",
+    "Folio": "100",
+    "Fecha": "2025-05-04T12:00:00",
+    "FormaPago": "01",
+    "MetodoPago": "PUE",
+    "TipoDeComprobante": "I",
+    "LugarExpedicion": "64000",
+    "Receptor": {
+      "Nombre": "Cliente Demo",
+      "Rfc": "XAXX010101000",
+      "UsoCFDI": "G03"
+    },
+    "Conceptos": [
+      {
+        "ClaveProdServ": "01010101",
+        "Cantidad": 1,
+        "ClaveUnidad": "ACT",
+        "Descripcion": "Servicio de consultoría",
+        "ValorUnitario": 1000,
+        "Importe": 1000
+      }
+    ]
+  }
